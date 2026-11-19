@@ -1,0 +1,7 @@
+extract the die_win64_4.0.0.zip here. 
+
+https://github.com/horsicq/DIE-engine/releases
+
+https://github.com/horsicq/DIE-engine/releases/download/4.0.0/die_win64_4.0.0.zip
+
+if you do not do this, then the script will not work. 

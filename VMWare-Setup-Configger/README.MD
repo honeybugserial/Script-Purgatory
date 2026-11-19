@@ -1,0 +1,1 @@
+meant to quickly install vmware workstation and also add in extra things like unlock for MacOS and some other junks, just look at the screenshot.

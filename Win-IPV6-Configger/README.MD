@@ -1,0 +1,1 @@
+disable / enable ipv6 in windows a few different ways. 
